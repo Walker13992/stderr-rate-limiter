@@ -1,6 +1,6 @@
 [project]
 name = "stderr-rate-limiter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A logging.Handler wrapper that enforces a token-bucket rate limit so noisy error streams do not flood stderr during incidents."
 requires-python = ">=3.10"
 dependencies = []
